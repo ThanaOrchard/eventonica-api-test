@@ -1,0 +1,19 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "name": "Cool Gamedev Meetup",
+            "description": "Wow you can meet up with other cool game developers at this meetup!"
+        },
+        {
+            "id": 2,
+            "name": "Corporate Nonsense Mixer",
+            "description": "You can't afford this event so dont bother, peasant."
+        },
+        {
+            "id": 3,
+            "name": "Wine and VR",
+            "description": "Drink wine and fly around in VR! What could go wrong?"
+        }
+    ]
+}
